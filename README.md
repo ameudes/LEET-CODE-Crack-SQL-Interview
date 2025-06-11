@@ -4,7 +4,6 @@
 
 A fully–documented collection of solutions to the **LeetCode SQL-50** problems. The goal isn’t just to get the right answer, but to *explain* the reasoning.
 
----
 
 ## Why this repository?
 
@@ -12,7 +11,7 @@ A fully–documented collection of solutions to the **LeetCode SQL-50** problems
 
 Feel free to PR an alternative approach to any of the questions.
 
----
+
 
 ## What’s inside each solution file?
 
